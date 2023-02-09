@@ -1,0 +1,77 @@
+
+
+* {
+    background: #150012;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h1 {
+    font-size: 67px;
+    color: rgb(255, 0, 183)
+}
+
+.keyboard {
+    width: 350px;
+    box-shadow: 10px 10px 10px rgb(255, 0, 183);
+}
+p {
+    color: rgb(255, 0, 183);
+}
+
+p a {
+    color: blue;
+}
+
+h2 {
+    color:goldenrod;
+    margin-top: 55px;
+}
+
+.p2text {
+    font-family: 'Times New Roman', Times, serif;
+    color: goldenrod;
+    font-size: 19px;
+    margin-top: 5px;
+    text-align: center;
+    box-shadow: 1px 1px 3px 3px rgb(252, 207, 6);
+}
+
+
+.placesToVisit .airplane {
+    width: 350px;
+    margin-top: 55px;
+    box-shadow: 3px 3px 3px 3px rgb(83, 213, 225);
+}
+
+.placesToVisit ul {
+    color: aqua;
+    font-size: 1.8em;
+}
+
+.placesToVisit ul li {
+    color: rgb(182, 251, 242);
+    font-size: 1rem;
+}
+
+.games .computer {
+    width: 350px;
+    margin-top: 50px;
+    border: 2px solid pink;
+    box-shadow: 1px 1px 10px 10px rgb(255, 0, 183);
+    
+}
+
+.games ol {
+    color: rgb(217, 176, 255);
+    font-size: 25px;
+
+}
+
+.games ol li {
+    font-size: 19px;
+}
+
+footer {
+    margin-bottom: 100px;
+}
